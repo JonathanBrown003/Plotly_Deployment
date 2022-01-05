@@ -1,2 +1,2 @@
 # Plotly_Deployment
-Using JavaScript and HTML to create an interactive dashboard. 
+Using JavaScript and HTML to create an interactive dashboard showing belly button data. The goal was to create dynamic charts like bar, bubble, and gauge charts within the dashboard. By selecting a different ID in the dropdown menu, users of the dashboard can view differences in the belly button data among test subjects in the sample data.  
